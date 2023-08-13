@@ -20,6 +20,8 @@ Dəyər: array = [2], hədəf = 1<br>
 Nəticə: []
 
 
+Githubda public repository yaradıb, CV ilə birlikdə linki göndərin
+
 ```php
 class Solution {
 
